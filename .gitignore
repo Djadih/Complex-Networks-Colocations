@@ -116,3 +116,4 @@ dmypy.json
 # Data folder
 datasets/
 .DS_Store
+graph_files/
