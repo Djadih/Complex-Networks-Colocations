@@ -117,3 +117,4 @@ dmypy.json
 datasets/
 .DS_Store
 graph_files/
+catboost_info/
